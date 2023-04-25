@@ -15,6 +15,7 @@ body{
     min-height: 100vh;
     background: url(bg_img.png);
     background-size: cover;
+    display: flex;
     font-family: 'Nunito', sans-serif;
 }
 
